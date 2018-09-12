@@ -8,7 +8,7 @@ h1 {
 }
 
 .title {
-  border: 1px solid black;
+  border: 1px solid purple;
   font-weight: bold;
   position: absolute;
   right: 0;
@@ -22,17 +22,17 @@ h1 {
   padding: 45px 10px 5px 10px;
 }
 
-#chicken {
-  background-color: #ffb3b3;
+#Chicken1 {
+  background-color: green;
 }
 
-#beef {
+#Beef2 {
   background-color: red;
   color: white;
 }
 
-#sushi {
-  background-color: #ffff99;
+#Sushi3 {
+  background-color: yellow;
 }
 
 .row {
@@ -42,7 +42,7 @@ h1 {
 
 div.section {
   background: gray;
-  border: 1px solid black;
+  border: 1px solid purple;
   position: relative;
   margin: 10px;
 }
